@@ -1,18 +1,23 @@
 <div>
+  <h1 align="center" >Hola, soy Jefferson Garcia 🧑‍💼🖥️</h1>
   <div align="center">
-    <h1 align="center">Hola, soy Jefferson Garcia</h1>
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529i3v6vfn1207y8cef9ju7y5t9zfwvenyypul3a3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" border-radius="15"/>
-    <h3 align="center">Software Developer Junior 🧑‍💼🖥️</h3>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529i3v6vfn1207y8cef9ju7y5t9zfwvenyypul3a3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="260" border-radius="15"/>
   </div>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+repositorio+%F0%9F%91%8B;Estudiante+de+informática;Software+Developer+Junior;Siempre+Aprendiendo;Freelancer;Abierto+a+nuevos+desafíos" alt="Headline" />
+  </div>
+  <div align=center>
+        <a href="www.linkedin.com/in/jefferson-garcia-ibarra-558822244"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    </div>
   <div>
     <p>
-      Soy un desarrollador junior de software y web con fan de crear cosas innovadoras y aprender nuevas tecnologias. Actualmente soy estudiande de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica         de programación y actualizandome de las nuevas tendencias tecnologicas. 
+Soy un desarrollador junior de software y web con fan de crear cosas innovadoras y aprender nuevas tecnologías. Actualmente soy estudiante de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica         de programación y actualizándome de las nuevas tendencias tecnológicas.
     </p>
     <p>
-      He trabajado en desarrallo de una Intranet para una universidad, adquiriendo conocimientos utilices que me a llegado a mejorar. Soy bueno en trabajo en equipo, aportar tanto en ayudar es lo que se necesita para lograr un buen trabajo en grupo. Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
+      He trabajado desarrollando una Intranet para una universidad, adquiriendo conocimientos utilices que me ha llegado a mejorar. Soy bueno en trabajo en equipo, aportando conocimiento y ayudar a los demás es lo que se necesita para lograr un buen trabajo en grupo.
     </p>
     <p>
-       Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
+       ¡Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos!
     </p>
   </div>
 </div>
