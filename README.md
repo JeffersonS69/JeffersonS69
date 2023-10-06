@@ -1,15 +1,21 @@
-<h1 align="center">Hola, soy Jefferson Garcia</h1>
-<h3 align="center">Software Developer Junior 🧑‍💼🖥️</h3>
-<p>
-  Soy un desarrollador junior de software y web con fan de crear cosas innovadoras y aprender nuevas tecnologias. Actualmente soy estudiande de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica de programación y actualizandome de las nuevas tendencias tecnologicas. 
-</p>
-<p>
-   He trabajado en desarrallo de una Intranet para una universidad, adquiriendo conocimientos utilices que me a llegado a mejorar. Soy bueno en trabajo en equipo, aportar tanto en ayudar es lo que se necesita para lograr un buen trabajo en grupo. Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
-</p>
-</p>
-<p>
-   Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
-</p>
+<div>
+  <div align="center">
+    <h1 align="center">Hola, soy Jefferson Garcia</h1>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529i3v6vfn1207y8cef9ju7y5t9zfwvenyypul3a3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" border-radius="15"/>
+    <h3 align="center">Software Developer Junior 🧑‍💼🖥️</h3>
+  </div>
+  <div>
+    <p>
+      Soy un desarrollador junior de software y web con fan de crear cosas innovadoras y aprender nuevas tecnologias. Actualmente soy estudiande de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica         de programación y actualizandome de las nuevas tendencias tecnologicas. 
+    </p>
+    <p>
+      He trabajado en desarrallo de una Intranet para una universidad, adquiriendo conocimientos utilices que me a llegado a mejorar. Soy bueno en trabajo en equipo, aportar tanto en ayudar es lo que se necesita para lograr un buen trabajo en grupo. Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
+    </p>
+    <p>
+       Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos.
+    </p>
+  </div>
+</div>
 
 ## Conocimientos:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
