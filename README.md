@@ -1,7 +1,7 @@
 <div>
   <h1 align="center" >Hola, soy Jefferson Garcia 🧑‍💼🖥️</h1>
   <div align="center">
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529i3v6vfn1207y8cef9ju7y5t9zfwvenyypul3a3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="260" border-radius="15"/>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529i3v6vfn1207y8cef9ju7y5t9zfwvenyypul3a3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="215'" border-radius="15"/>
   </div>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+a+mi+repositorio+%F0%9F%91%8B;Estudiante+de+informática;Software+Developer+Junior;Siempre+Aprendiendo;Freelancer;Abierto+a+nuevos+desafíos" alt="Headline" />
