@@ -17,7 +17,7 @@ Soy un desarrollador junior de software y web con fan de crear cosas innovadoras
       He trabajado desarrollando una Intranet para una universidad, adquiriendo conocimientos utilices que me ha llegado a mejorar. Soy bueno en trabajo en equipo, aportando conocimiento y ayudar a los demás es lo que se necesita para lograr un buen trabajo en grupo.
     </p>
     <p>
-       ¡Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevos conocimientos!
+       ¡Gracias a esto me apasiona la programación y me emociona seguir aprendiendo nuevas tecnologías!
     </p>
   </div>
 </div>
