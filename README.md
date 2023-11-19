@@ -11,7 +11,7 @@
     </div>
   <div>
     <p>
-Soy un desarrollador junior de software y web con fan de crear cosas innovadoras y aprender nuevas tecnologías. Actualmente soy estudiante de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica         de programación y actualizándome de las nuevas tendencias tecnológicas.
+Soy un desarrollador de software junior con fan de crear cosas innovadoras y aprender nuevas tecnologías. Actualmente soy estudiante de Pontificia Universidad Católica del Ecuador. Me esfuerzo en dar lo mejor de mi manteniendo una buena práctica         de programación y actualizándome de las nuevas tendencias tecnológicas.
     </p>
     <p>
       He trabajado desarrollando una Intranet para una universidad, adquiriendo conocimientos utilices que me ha llegado a mejorar. Soy bueno en trabajo en equipo, aportando conocimiento y ayudar a los demás es lo que se necesita para lograr un buen trabajo en grupo.
