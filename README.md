@@ -15,15 +15,15 @@ Soy desarrollador de frontend con año y medio de experiencia en la creación de
     </p>
     <h1>Experiencia Laboral</h1>
     <ul>
-      <il>
+      <li>
         Diseñé y desarrollé interfaces de usuario para aplicaciones web utilizando Next.js, React y Mantine-Dev.
-      </il>
-      <il>
+      </li>
+      <li>
         Diseñé y desarrollé interfaces de usuario para una intranet de la universidad utilizando React y Core-UI.
-      </il>
-      <il>
+      </li>
+      <li>
         Colaboré con equipos de backend para integrar APIs RESTful, creado con microservicios para una aplicativo móvil.
-      </il>
+      </li>
     </ul>
   </div>
 </div>
